@@ -6,4 +6,4 @@ Hello World. Ein Chatbot für Telegram und ConceptNet.
   
 Tabea Haverkamp  
 Kevin Choong  
-Johannes Romp  
+Johannes Rompe  
